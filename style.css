@@ -1,13 +1,3 @@
-@font-face {
-  font-family: 'Graduate';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Graduate'),
-  	local('Graduate-Regular'),
-  	url(fonts/graduate.eot) format('embedded-opentype'),
-  	url(fonts/graduate.ttf) format('truetype'),
-  	url(fonts/graduate.woff) format('woff');
-}
 * {
 	margin: 0;
 	padding: 0;
@@ -16,27 +6,18 @@ body {
 	background: #efefef url(img/bg_content.png) fixed repeat;
 	font: normal 15px/22px Helvetica, Arial, sans-serif;
 	color: #333;
+	position: relative;
 }
 a {
 	text-decoration: none;
 	color: #b12a34;
 	outline: none;
 }
-img.avatar {
-	margin: 5px 15px 10px 25px;
-	float: left;
-	border-radius: 10px;
-	width: 110px;
-	height: 110px;
-}
 h1,
 h2,
 h3,
-nav ul li a,
-.form label,
-.form input.submit,
-.single-entry .launch,
-.play h1 {
+nav a
+{
 	font-family: "Graduate", "Times New Roman", Verdana;
 	font-weight: normal;
 }
@@ -45,77 +26,89 @@ header {
 	border-top: 5px solid #a52730;
 	border-bottom: 4px solid #fff;
 }
-a.logo {
+nav {
+	width: 960px;
+	margin: 10px auto;
+	position: relative;
+}
+nav > a {
 	display: block;
 	width: 295px;
 	height: 62px;
 	background: url(img/js13kgames.png) no-repeat;
 	text-indent: -5000px;
 }
-nav {
-	width: 960px;
-	margin: 10px auto;
-	position: relative;
-}
 nav ul {
 	position: absolute;
 	top: 18px;
 	right: 0;
 }
-nav ul li {
+nav li {
 	display: inline-block;
 	padding-left: 10px;
 }
-nav ul li a {
+nav li a {
 	color: #e2e2e2;
 	font-size: 18px;
 }
-nav ul li a:hover {
+nav li a:hover {
 	color: #b12a34;
 }
-.content {
+
+main {
+	box-sizing: border-box;
 	width: 960px;
 	margin: 0 auto 20px;
+	padding: 0 30px;
 	background: #fafafa;
 	border-radius: 0 0 10px 10px;
-	padding-bottom: 0px;
 }
-.content a:hover {
+main a {
+	font-weight: bold;
+}
+main a:hover {
 	text-decoration: none;
 	border-bottom: 1px solid #b12a34;
 }
-h2 {
+main p {
+	padding-bottom: 20px;
+}
+h1 {
 	font-size: 32px;
 	color: #acabab;
 	text-align: center;
 	padding: 20px 0 15px;
 	line-height: 40px;
 }
-h2:before {
+h1:before {
 	content: " • ";
 }
-h2:after {
+h1:after {
 	content: " • ";
 }
 h3 {
 	line-height: 40px;
 }
-section {
-	position: relative;
-}
-section a {
-	font-weight: bold;
-}
-section p {
-	padding-bottom: 20px;
-}
 ul {
 	padding-left: 30px;
 	padding-bottom: 15px;
 }
+a.fork.page {
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 149px;
+	height: 149px;
+	background-image: url(img/forkme.png);
+}
+a.fork:hover {
+	border: none;
+}
 .note {
 	padding-top: 30px;
 	font-size: 12px;
+	text-align: center;
+	color: #999;
 }
 footer {
 	background: #2d2d2d url(img/bg_header.png) repeat;
@@ -130,7 +123,7 @@ footer div {
 	padding: 40px 0;
 	position: relative;
 }
-footer div p {
+footer p {
 	position: absolute;
 	top: 40px;
 	right: 0;
@@ -138,14 +131,4 @@ footer div p {
 footer a {
 	color: #fff;
 	font-weight: bold;
-}
-img.logo {
-	box-shadow: 2px 2px 3px #ccc;
-	float: left;
-	border-radius: 151px;
-	border: 7px solid #fff;
-	margin: -50px 50px 20px -20px;
-}
-section#resources {
-	padding: 0 30px;
 }
