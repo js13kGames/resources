@@ -93,6 +93,9 @@ ul {
 	padding-left: 30px;
 	padding-bottom: 15px;
 }
+.posts {
+	padding-top: 10px;
+}
 a.fork.page {
 	position: absolute;
 	top: 0;
