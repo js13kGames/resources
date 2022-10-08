@@ -3,7 +3,7 @@
 	padding: 0;
 }
 body {
-	background: #efefef url(img/bg_content.png) fixed repeat;
+	background: #efefef;
 	font: normal 15px/22px Helvetica, Arial, sans-serif;
 	color: #333;
 	position: relative;
@@ -22,7 +22,7 @@ nav a
 	font-weight: normal;
 }
 header {
-	background: #2d2d2d url(img/bg_header.png) repeat;
+	background: #2d2d2d;
 	border-top: 5px solid #a52730;
 	border-bottom: 4px solid #fff;
 }
@@ -114,7 +114,7 @@ a.fork:hover {
 	color: #999;
 }
 footer {
-	background: #2d2d2d url(img/bg_header.png) repeat;
+	background: #2d2d2d;
 	border-top: 7px solid #fff;
 	border-bottom: 5px solid #a52730;
 }
