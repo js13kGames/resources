@@ -1,0 +1,36 @@
+name: Update upstream submodule
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'README.md'
+
+env:
+  MODULE_PATH: clients/website/src/modules/resources/content
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          repository: js13kgames/web
+          token: ${{ secrets.PAT }}
+      - uses: crazy-max/ghaction-import-gpg@v5
+        with:
+          gpg_private_key: ${{ secrets.BADLUCKY_KEY }}
+          git_user_signingkey: true
+      - name: update
+        run: |
+          git submodule update --init --remote $MODULE_PATH
+          git add $MODULE_PATH
+      - name: commit
+        run: |
+          git commit -S -m "[clients/website] Update submodule https://github.com/js13kGames/resources/commit/$(cd $MODULE_PATH && git log -1 --format=%h).
+
+          $(cd $MODULE_PATH && git log -1 --format=%B)
+
+          Co-authored-by: $(cd $MODULE_PATH && git log -1 --format=%an) <$(cd $MODULE_PATH && git log -1 --format=%ae)>
+          Signed-off-by: ${{ github.event.pusher.name }} <${{ github.event.pusher.email }}>"
+          git push
