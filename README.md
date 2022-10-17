@@ -773,3 +773,5 @@
   by Kacper Kula ([@kulak_at](//twitter.com/kulak_at))
 * [TenderGotchi](//blog.slashie.net/2022/10/13/tendergotchi-js13k22)
   by Slashie ([@slashie_](//twitter.com/slashie_))
+* [Stand By Me](//medium.com/@herebefrogs/stand-by-me-a-js13kgames-2022-post-mortem-f14edb0d3304)
+  by Jerome Lecomte ([@herebefrogs](//twitter.com/herebefrogs))
