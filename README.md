@@ -38,7 +38,7 @@
   1.5kb library to render 3D scenes using CSS3D shapes and sprites, and move the camera
 * [WebGLframework](//github.com/xem/WebGLFramework)
   1.5kb library to easily render 3D scenes using WebGL (WIP)
-* [280 bytes responsive, hackable, mobile friendly game framework](//twitter.com/MaximeEuziere/status/1257783623316656130)
+* [280 bytes responsive, hackable, mobile friendly game framework](//x.com/MaximeEuziere/status/1257783623316656130)
   With native arrow keys / WASD / ZQSD key inputs detection
 * [Mini2Dphysics](//github.com/xem/mini2Dphysics)
   1.5kb 2D physics engine. Just set the gravity, create Circles and Rectangles, and watch them fall and collide
@@ -46,12 +46,14 @@
   An example of isometric 2D map renderer on 2D canvas. Each tile can have a custom height
 * [Hexagonal map](//codepen.io/xem/pen/mdmapRd?editors=1010)
   An example of hexagonal map renderer on 2D canvas
-* [MiniDragAndDrop](//twitter.com/MaximeEuziere/status/1157563570823081984)
+* [MiniDragAndDrop](//x.com/MaximeEuziere/status/1157563570823081984)
   A DOM-based, easy-to-use drag&drop library for desktop and mobile browsers (1/2kb zipped)
 * [MiniIK](//github.com/xem/miniIK)
   A tiny Inverse Kinematics example
 * [responsiveTouchGameFramework](//github.com/xem/responsiveTouchGameFramework)
   Responsive canvas game framework with unified mouse/touch inputs
+* [litecanvas](//github.com/litecanvas/game-engine)
+  4kb canvas game engine for small games
 
 
 
@@ -60,7 +62,9 @@
 * [SoundBox](//sb.bitsnbites.eu)
   An HTML5 synth music tracker
 * [jsfxr](//github.com/mneubrand/jsfxr)
-  as3sfxr synth port to JavaScript
+  A JavaScript port of [as3sfxr](//superflashbros.net/as3sfxr)
+* [jsfxr](//sfxr.me)
+  Another JavaScript port of [as3sfxr](//superflashbros.net/as3sfxr), with a playback library
 * [Arcade audio for js13kGames](//codepen.io/jackrugile/blog/arcade-audio-for-js13k-games) 
   Blog post about generating your own sound effects
 * [Sonant-X](//github.com/nicolas-van/sonant-x)
@@ -154,6 +158,8 @@
   Generate a nice procedural galaxy background with stars
 * [Image Encryptor](//foumartgames.com/extensions/ImageEncryptor)
   8-color pixel-art image encryptor - gives the same output as Mini Pixel Art, but based on images you provide
+* [Mini Pixelart Editor](//lopis.github.io/mini-pixelart-editor)
+  Multi-project 8-color pixel-art editor. Remembers your palette and generates encrypted image strings and rendering code
 
 
 
@@ -161,7 +167,7 @@
 
 * [js13k-boilerplate](//github.com/ooflorent/js13k-boilerplate)
   js13kGames boilerplate
-* [JS13k Gulp workflow](//github.com/shreyasminocha/js13k-boilerplate)
+* [js13k Gulp workflow](//github.com/shreyasminocha/js13k-boilerplate)
   A gulp-powered workflow with source file minification, image optimization and zip generation
 * [js13k-toolkit](//github.com/lucaspenney/js13k-toolkit)
   Starter repository for js13kGames, a set of tools for developing a JS game and keeping it under 13kb
@@ -179,13 +185,16 @@
   Starter Webpack project to transpile TypeScript, build, and zip your game
 * [js13kgames-parcel-starter](//github.com/mtmckenna/js13kgames-parcel-starter)
   Starter repo to build, zip, and check the file size of your game with a single command
-* [JS13K starter](//github.com/jonathan-vallet/js13k-starter)
+* [js13k starter](//github.com/jonathan-vallet/js13k-starter)
   Gulp starter watching changes, and tasks to compile, minify, inline, and zip you game for better optimization
 * [js13kGames-boilerplate](//github.com/voronianski-on-games/js13kGames-boilerplate)
   Includes game loop, utility functions and webpack config to package game with just one command
 * [gamejam-boilerplate](//github.com/herebefrogs/gamejam-boilerplate)
   Mini boilerplate for 2D canvas games with keyboard/mouse/touch support, live reload & optimized zip build
-
+* [TypeScript Starter](//github.com/roblouie/js13k-typescript-starter)
+  Powerful and easy to use Vite-based build process that minifies then compresses with RoadRoller and ECT
+* [WebGL TypeScript Starter](//github.com/roblouie/js13k-typescript-starter-webgl)
+  Same as above but adds automatic shader minification
 
 
 ## Minification / Compression
@@ -312,45 +321,42 @@
   2D platformer demo with commented source code
 * [Mini 3D platformer](//github.com/xem/mini3DPlatformer#readme)
   3D platformer demos with commented source code
-* [JS13k 2021 tools & tips thread](//twitter.com/MaximeEuziere/status/1416651465951690753)
+* [JS13k 2021 tools & tips thread](//x.com/MaximeEuziere/status/1416651465951690753)
   by xem
 * [Build a tiny game for JS13K with Kontra.js](//dev.to/github/build-a-tiny-game-for-js13k-with-kontra-js-8pb)
   by Lee Reilly
 
 
 
-## Videos and audio
+## Videos and podcasts
 
 * [Jupi Plays Indie Games 2014](//youtube.com/playlist?list=PLYKU1lvSF85cletut9NULJwgEtN01TYWm)
-  YouTube playlist with Jupiter Hadley playing all the games from the 2014 edition
+  YouTube playlist of js13kGames 2014 games, by Jupiter Hadley
 * [Let's play vids for js13k 2015](//youtube.com/playlist?list=PL94Kxubp5fYe3XwC3rIeybFUhIkeuhJym)
-  YouTube playlist for 2015 entries by Keith Karnage
+  YouTube playlist of js13kGames 2014 games, by Keith Karnage
 * [Jupi Plays Indie Games 2015](//youtube.com/playlist?list=PLYKU1lvSF85czCO1G2UgwvxRpzGw8P2Bn)
-  YouTube playlist for 2015 entries by Jupiter Hadley
+  YouTube playlist of js13kGames 2015 games, by Jupiter Hadley
 * [Jupi Plays Indie Games 2016](//youtube.com/playlist?list=PLYKU1lvSF85e_jRg9g12GhpATCW1ETrb1)
-  YouTube playlist for 2016 entries by Jupiter Hadley
+  YouTube playlist of js13kGames 2016 games, by Jupiter Hadley
 * [JS13K 2017 games compilation](//youtube.com/watch?v=8gSTuXrFyIc)
   YouTube video by Agar3s
 * [Jupi Plays Indie Games 2017](//youtube.com/playlist?list=PLYKU1lvSF85c4UPV3J1onIf-Qv13GJ7H8)
-  YouTube playlist for 2017 entries by Jupiter Hadley
-* [The Game Developers Radio: Game Design Daily 068](//soundcloud.com/the-game-developers-radio/game-design-daily-068-game-dev-article-round-up-part-02)
-  Game dev article round up part 02 on SoundCloud
+  YouTube playlist of js13kGames 2017 games, by Jupiter Hadley
 * [How to squeeze a HTML5 game in 13 kB?](//youtube.com/watch?v=RdOram609vU)
   Andrzej Mazur's introductory speech. Subtitles by B0dz1o
 * [Edge Guard podcast #111 about js13kGames 2019](//edgeguard.podbean.com/e/111-js13k)
 * [Jupi Plays Indie Games 2019](//youtube.com/playlist?list=PLYKU1lvSF85cuGNo8x74zv6U1ojTYjzRh)
-  YouTube playlist for 2019 entries by Jupiter Hadley
-* [js13kGames 2020: Showcase of Web Monetization category entries](//cinnamon.video/watch?v=494735965722510880)
-  by Jupiter Hadley
+  YouTube playlist of js13kGames 2019 games, by Jupiter Hadley
 * [20 award-winning 13-kilobyte JavaScript games - js13kGames 2020 winners](//youtube.com/watch?v=GKOgm5-GbUA)
   by Ania Kubów for freeCodeCamp
 * [Jupi Plays Indie Games 2021](//youtube.com/playlist?list=PLYKU1lvSF85fITmDh5Akb_AvQ7mk84SVb)
-  YouTube playlist for 2021 entries by Jupiter Hadley
+  YouTube playlist of js13kGames 2021 games, by Jupiter Hadley
 * [Playing js13kGames 2021 game jam entries](//youtube.com/playlist?list=PLhL-75WW1siuO5voVWa3qnBhGlZ1aXtf-)
-  YouTube playlist for 2021 entries by Pablo_TescoSpar
+  YouTube playlist of js13kGames 2021 games, by Pablo_TescoSpar
 * [js13kGames 2021 - can you build a game with <13kb?](//twitch.tv/videos/1170593193)
-  Michelle Mannering playing some of the 2021 entries on Twitch
-
+  Twitch recording of js13kGames 2021 games, by Michelle Mannering
+* [13s clips of js13kgames 2023 entries](//youtube.com/watch?v=4F7qVz-zLR8)
+  YouTube compilation of 13s clips of js13kGames 2023 games, by Dobuki Gamer
 
 
 ## Blog posts and post mortems
@@ -420,7 +426,7 @@
 
 #### Post-mortems
 * [Super Chrono Portal Maker](//xem.github.io/articles/js13k16.html)
-  by [xem](//twitter.com/maximeeuziere)
+  by [xem](//x.com/maximeeuziere)
 * [yoctoPets](//walsh9.net/games/yoctopets-post-mortem)
   by Walsh9
 * [Shuttle Power Dash](//web.archive.org/web/20180831181131/http://theperplactory.net/postmortem-js13k-2016)
@@ -430,15 +436,15 @@
 * [PULSE](//github.com/vonloxx/js13k-2016)
   by Marco Fernandes
 * [Blade Gunner](//medium.com/@herebefrogs/blade-gunner-js13kgames-2016-post-mortem-6786d2237733)
-  by Jerome Lecomte ([@herebefrogs](//twitter.com/herebefrogs))
+  by Jerome Lecomte ([@herebefrogs](//x.com/herebefrogs))
 * [Glitch Hunt](//jamesswright.co.uk/blog/1474997-glitch-hunt-js13kgames-2016)
   by James Wright
 * [Glitch Torpedo](//github.com/plissken2013es/glitch-torpedo-js13k2016/blob/master/README.md)
   by Plissken2013es
 * [Nomis 2](//brosteins.com/2016/09/17/js13kgames-2016)
   by Nick Branstein
-* [Buggy SnAkE](//zofiakorcz.pl/buggy-snake)
-  by Zosia Korcz
+* [Buggy SnAkE](//web.archive.org/web/20231201041741/https://zofiakorcz.pl/buggy-snake)
+  by Zofia Szopka ([@Calanthe](//github.com/Calanthe))
 * [Phosphorus Dating](//crocidb.com/articles/postmortem-phosphorus-dating.html)
   by Bruno Croci
 
@@ -462,13 +468,13 @@
 * [The Lost Packets](//twelvegamesayear.blogspot.co.za/2017/09/js13k-2017-lost-packets-retrospective.html)
   by Andrew Higson-Smith
 * [LOSSST](//xem.github.io/articles/js13k17.html)
-  by [xem](//twitter.com/maximeeuziere) (warning: big ass story: 10500 words + 80MB of images)
+  by [xem](//x.com/maximeeuziere) (warning: big ass story: 10500 words + 80MB of images)
 * [Greeble](//web.archive.org/web/20190616085106/http://code.ryanmalm.com/JS13k_2017_postmortem)
   by Ryan Malm
 * [Lost in Asterion](//blog.slashie.net/2017/09/30/postmortem-lost-in-asterion-js13k-2017)
-  by Slashie ([@slashie_](//twitter.com/slashie_))
-* [Lost in Cyberspace](//zofiakorcz.pl/lost-in-cyberspace-vr)
-  by Zosia Korcz
+  by Slashie ([@slashie_](//x.com/slashie_))
+* [Lost in Cyberspace](//web.archive.org/web/20231201041741/https://zofiakorcz.pl/lost-in-cyberspace-vr)
+  by Zofia Szopka ([@Calanthe](//github.com/Calanthe))
 * [A Day in the Life](//www.mattiafortunati.com/a-day-in-the-life-and-js13kgames-2017)
   by Mattia Fortunati
 * [Lost in Jungle](//medium.com/@zendrael/ipad-only-gamedev-11-enough-to-compete-6aeb1f033668) 
@@ -482,9 +488,9 @@
 * [Lost in the woods](//nifey.github.io/2017/10/20/Lost-in-the-woods-My-entry-for-JS13Kgames.html)
   by Abdun Nihaal
 * [A Tourist In Paris](//medium.com/@herebefrogs/a-tourist-in-paris-js13kgames-2017-post-mortem-29a75197be6f)
-  by Jerome Lecomte ([@herebefrogs](//twitter.com/herebefrogs))
+  by Jerome Lecomte ([@herebefrogs](//x.com/herebefrogs))
 * [Vernissage](//platane.github.io/js13k-2017/postmortem)
-  by Platane
+  by platane ([@platane_](//x.com/platane_))
 
 ### 2018
 
@@ -537,10 +543,8 @@
   by André Jaenisch
 * [Earth That Was](//barbarianmeetscoding.com/blog/how-to-write-a-game-under-13k-while-taking-care-of-a-baby) 
   by Jaime Gonzalez Garcia
-* [When my VPN goes offline (...)](//js13k.lucasbersier.com/the-post-partum-article) (Dead link)
-  by Lucas Bersier
 * [Planet Figadore has gone OFFLINE](//github.com/picosonic/js13k-2018/blob/master/devdiary/diary.md)
-  by picosonic (Jasper Renow-Clarke) (([@femtosonic](//twitter.com/femtosonic))
+  by Jasper Renow-Clarke (picosonic, [@femtosonic](//x.com/femtosonic))
 * [Wired](//github.com/bojanpejkovic/wired/blob/master/pm.md)
   by Bojan Pejkovic
 * [Watashi no Shashin](http://hambley.me.uk/blogpost/diaryofagame)
@@ -570,7 +574,7 @@
 * [Robo Galactic Shooter](//engineering.wingify.com/posts/js13k-game-development/#robo-galactic-shooter)
   by Ashish Bardhan
 * [Geoquiz2 / Envelope / Man on Wire](//xem.github.io/articles/js13k18.html)
-  by [xem](//twitter.com/maximeeuziere) & friends
+  by [xem](//x.com/maximeeuziere) & friends
 * [KickIt!](//archiewald.github.io/blog/1ppm/2018/10/09/js13k-my-first-game.html)
   by archiewald
 * [ArcherFire: Duet of Aces](//blog.slashie.net/2018/10/18/postmortem-archerfire-duet-of-aces-js13k-2018)
@@ -578,13 +582,13 @@
 * [Ranger Down](//github.com/nrkn/js13k-2018/blob/master/README.md)
   by Nik Coughlin
 * [SUBmersible WARship 2063](//medium.com/@herebefrogs/submersible-warship-2063-a-js13kgames-2018-postmortem-380b0008dc50)
-  by Jerome Lecomte ([@herebefrogs](//twitter.com/herebefrogs))
+  by Jerome Lecomte ([@herebefrogs](//x.com/herebefrogs))
 * [Planetfall](//github.com/chiaogu/planetfall)
   by Ian Chiao
 * [untitled13](//gabor.heja.hu/blog/2018/04/25/untitled13)
   by Gabor Heja
 * [Alone in Darkness](//connect.adfab.fr/game/js13k-post-mortem-en)
-  by Jonathan Vallet ([@JoeVallet](//twitter.com/JoeVallet))
+  by Jonathan Vallet ([@JoeVallet](//x.com/JoeVallet))
 
 ### 2019
 
@@ -594,51 +598,51 @@
 * [Back To The Stars](//github.com/vonloxx/js13k-2019/blob/master/README.md)
   by Marco Fernandes
 * [BackFlipped: Back to the Basics](//auroriax.com/js13kgames-back-to-the-basics)
-  by Tom Hermans (([@Auroriax](//twitter.com/Auroriax))
+  by Tom Hermans (([@Auroriax](//x.com/Auroriax))
 * [Backstabber Hero (Part 1 - Sources of inspiration)](//medium.com/@niklas.b3rg/game-dev-postmortem-backstabber-hero-part-1-80c7def92c74)
-  by Niklas Berg (@nkholski)
+  by Niklas Berg ([@nkholski](//github.com/nkholski))
 * [Back on Track (mania)](//xem.github.io/articles/js13k19.html)
-  by [xem](//twitter.com/maximeeuziere)
+  by [xem](//x.com/maximeeuziere)
 * [How to design a javascript game? (in 13KB or less)](//dev.to/mrlopis/how-to-design-a-javascript-game-in-13kb-or-less-59kn)
-  by Joao Lopes (([@mrlopis](//twitter.com/mrlopis))
+  by João Lopes ([@lopis](//github.com/lopis))
 * [Retrohaunt](//github.com/DennisBengs/retrohaunt/tree/master/postmortem)
   by Donitz
 * [Back from Kooky Island](//medium.com/@alexc73/i-made-a-video-game-on-my-journey-to-work-8e1bf2dfd208)
   by Alexander Curtis
 * [Creating a 13KB JS Game using SVG](//dev.to/mrlopis/creating-a-13kb-js-game-using-svg-5fjk)
-  by Joao Lopes (([@mrlopis](//twitter.com/mrlopis))
+  by João Lopes ([@lopis](//github.com/lopis))
 * [Get Back From Robot City](//medium.com/@etchells.kevin/js13k-games-2019-entry-get-back-from-robot-city-22a48afe5fe)
   by Kev Etchells
 * [BACKSPACE - Return to planet Figadore](//github.com/picosonic/js13k-2019/blob/master/devdiary/diary.md)
-  by picosonic (Jasper Renow-Clarke) (([@femtosonic](//twitter.com/femtosonic))
+  by Jasper Renow-Clarke (picosonic, [@femtosonic](//x.com/femtosonic))
 * [Lights Back On](//github.com/amolinasalazar/LightsBackOn/blob/master/README.md)
-  by Alejandro Molina ([@amolinasalazar](//twitter.com/amolinasalazar))
+  by Alejandro Molina ([@amolinasalazar](//x.com/amolinasalazar))
 * [Quick Wins](//carelesslabs.wordpress.com/2019/09/19/js13k-game-jam-post-mortom-gamedev-js13k)
-  by Ryan Tyler ([@Carelesslabs](//twitter.com/CarelessLabs))
+  by Ryan Tyler ([@Carelesslabs](//x.com/CarelessLabs))
 * [Backside Ball](//vertfromage.github.io./update/2019/09/19/entering-JS13KGames-2019-beginner.html) 
   by Vertfromage
 * [Backpack Monsters](//blog.slashie.net/2019/09/22/backpack-monsters-js13k-2019)
-  by [@Slashie](//twitter.com/slashie)
-* [The Making of VOIDCAL](//phoboslab.org/log/2019/09/voidcall-making-of)
+  by [@Slashie](//x.com/slashie)
+* [The Making of VOIDCALL](//phoboslab.org/log/2019/09/voidcall-making-of)
   by Dominic Szablewski
 * [Racer](//github.com/jaammees/racer/blob/master/README.md) 
   by James
 * [Random Learnings from Entering JS13K Games 2019](//dev.to/johnkilmister/random-learnings-from-entering-js13k-games-2019-4pcn) 
-  by [@JohnKilmister](//twitter.com/JohnKilmister)
+  by [@JohnKilmister](//x.com/JohnKilmister)
 * [JS13k 2019 Developer Commentary](//64mega.github.io/js13k-2019-recap.html)
-  by Daniel Lawrence ([@64Mega](//twitter.com/64Mega))
+  by Daniel Lawrence ([@64Mega](//x.com/64Mega))
 * [Backshot Tactics](//dev.to/salvan13/backshot-tactics-a-multiplayer-game-for-js13kgames-47ie)
-  by Antonio Salvati ([@salvan13](//twitter.com/salvan13))
+  by Antonio Salvati ([@salvan13](//x.com/salvan13))
 * [The Wandering Wraith](//medium.com/@mateusz.tomczyk/a-story-of-making-a-13-kb-game-in-30-days-the-wandering-wraith-post-mortem-9847c8992f49)
   by Mateusz Tomczyk
 * [Back to life](//serpent7776.itch.io/back-to-life/devlog/100709/back-to-life-postmortem)
-  by [Serpent7776](//twitter.com/serpent7776)
+  by [Serpent7776](//x.com/serpent7776)
 * [Do Not Look Back!](//medium.com/@herebefrogs/dont-look-back-a-js13kgames-2019-postmortem-a0028d8acef2)
-  by Jerome Lecomte ([@herebefrogs](//twitter.com/herebefrogs))
+  by Jerome Lecomte ([@herebefrogs](//x.com/herebefrogs))
 * [Bubba's Back Room](//web.archive.org/web/20191229231715/https://www.deadpix3l.com/bubbas-back-room-postmortem)
-  by [Eric Rowell](//twitter.com/ericdrowell)
+  by [Eric Rowell](//x.com/ericdrowell)
 * [Bounce Back Postmortem: A Boomerang Adventure](//frankforce.com/bounce-back-postmortem)
-  by [Frank Force](//twitter.com/KilledByAPixel)
+  by [Frank Force](//x.com/KilledByAPixel)
 * [Backcountry](//piesku.com/backcountry)
   by Michał Budzyński and Staś Małolepszy
 
@@ -647,9 +651,9 @@
 #### Posts
 * [Wow, this Quake clone is smaller than a Word doc](//kotaku.com/wow-this-quake-clone-is-smaller-than-a-word-doc-1847668782)
   by Zack Zwiezen at Kotaku
-* [This Quake clone is just 13 kilobytes and plays right in your browser](//www.techspot.com/news/91246-quake-clone-13-kilobytes-plays-right-browser.html)
+* [This Quake clone is just 13 kilobytes and plays right in your browser](//techspot.com/news/91246-quake-clone-13-kilobytes-plays-right-browser.html)
   by Shawn Knight at TechSpot
-* [Q1K3: a JavaScript homage to Quake in Just 13KB](//www.quakewiki.net/q1k3-a-javascript-homage-to-quake-in-just-13kb)
+* [Q1K3: a JavaScript homage to Quake in Just 13KB](//quakewiki.net/q1k3-a-javascript-homage-to-quake-in-just-13kb)
   QuakeWiki
 * [13 tiny and terrific entries from the js13kGames competition](//github.blog/2021-10-05-13-tiny-and-terrific-entries-from-the-js13kgames-competition)
   by Lee Reilly at GitHub Blog
@@ -660,118 +664,186 @@
 * [Minipunk - Voxels and Bloom Shaders and boss fights, oh my](//github.com/codyebberson/js13k-minipunk#postmortem)
   by Cody Ebberson
 * [Coding Golf - Broken Links](//github.com/picosonic/js13k-2020/blob/master/devdiary/diary.md)
-  by picosonic (Jasper Renow-Clarke) ([@femtosonic](//twitter.com/femtosonic))
-* [JS13K 2020: Planet Not Found](//www.joseprio.com/blog/2020/09/15/js13k-2020-planet-not-found)
-  by Josep del Rio ([@joseprio](//twitter.com/joseprio))
+  by Jasper Renow-Clarke (picosonic, [@femtosonic](//x.com/femtosonic))
+* [JS13K 2020: Planet Not Found](//joseprio.com/blog/2020/09/15/js13k-2020-planet-not-found)
+  by Josep del Rio ([@joseprio](//x.com/joseprio))
 * [You have found](//github.com/markknol/js13k-2020/blob/master/README.md)
-  by [@mknol](//twitter.com/mknol)
+  by [@mknol](//x.com/mknol)
 * [Employee not Found](//medium.com/@jayther/employee-not-found-js13k-2020-postmortem-d4c40a9ad70c)
-  by [@jayther](//twitter.com/jayther)
+  by [@jayther](//x.com/jayther)
 * [Manipulating SVG for fun and profit](//blog.grapefruitopia.com/post/2020-09-17-js13k-yeti-postmortem)
-  by [@benjymous](//twitter.com/benjymous)
+  by [@benjymous](//x.com/benjymous)
 * [Flow of Four](//demo.land/blog/2020/09/17/flow-of-four-postmortem)
-  by [@SubZtep](//twitter.com/SubZtep)
+  by [@SubZtep](//x.com/SubZtep)
 * [Ned Snow](//dev.to/juankz/ned-snow-a-webvr-game-under-13kb-5d75)
-  by [Juankz](//twitter.com/Juankz_)
+  by [Juankz](//x.com/Juankz_)
 * [404 - Rhythm Not Found](//blog.slashie.net/2020/09/18/404-rhythm-not-found-js13k-2020)
-  by [agar3s](//twitter.com/agar3s), [mapedorr](//twitter.com/mapedorr), [QuietGecko](//twitter.com/QuietGecko) and [Slashie](//twitter.com/slashie).
+  by [agar3s](//x.com/agar3s), [mapedorr](//x.com/mapedorr), [QuietGecko](//x.com/QuietGecko) and [Slashie](//x.com/slashie).
 * [Find the theme](//serpent7776.itch.io/find-the-theme/devlog/178196/find-the-theme-postmortem)
-  by [@Serpent7776](//twitter.com/serpent7776)
+  by [@Serpent7776](//x.com/serpent7776)
 * [Island Not Found](//github.com/SalvatorePreviti/js13k-2020/wiki/Post-Mortem)
-  by [Ben](//twitter.com/bencoder) and [Salvatore](//twitter.com/SN74HC00)
+  by [Ben](//x.com/bencoder) and [Salvatore Previti](//x.com/SN74HC00)
 * [404 BC Pinball](//harmades.github.io/posts/js13k-2020-post-mortem)
-  by Adrian Lissot ([@adrianlissot](//twitter.com/adrianlissot))
+  by Adrian Lissot ([@adrianlissot](//x.com/adrianlissot))
 * [Building a Pseudo-3D Racing Game for the 2020 JS13k Game Jam](//www.radcade.com/building-a-pseudo-3d-racing-game-for-the-2020-js13k-game-jam)
-  by [@mattmckenna](//twitter.com/mattmckenna)
+  by [@mattmckenna](//x.com/mattmckenna)
 * [Edge Not Found](//auroriax.com/edge-not-found-postmortem-js13k-2020)
-  by Tom Hermans ([@Auroriax](//twitter.com/auroriax))
+  by Tom Hermans ([@Auroriax](//x.com/auroriax))
 * [Cardice](//github.com/jonathan-vallet/js13k-2020/blob/master/POST_MORTEM.md)
-  by Jonathan Vallet ([@JoeVallet](//twitter.com/JoeVallet))
+  by Jonathan Vallet ([@JoeVallet](//x.com/JoeVallet))
 * [Forgetful God](//github.com/Ayuu/forgetfulgod-js13k2020/wiki/Post-Mortem)
-  by Franck Ly ([@Smflyf](//twitter.com/Smflyf))
+  by Franck Ly ([@Smflyf](//x.com/Smflyf))
 * [And then it was gone](//sebadorn.de/2020/09/27/and-then-it-was-gone-notes-about-developing-my-js13k-entry-of-2020)
-  by Sebastian Dorn ([@sebadorn](//twitter.com/sebadorn))
+  by Sebastian Dorn ([@sebadorn](//x.com/sebadorn))
 * [Coler 2D](//eguneys.github.io/js13k2020.html)
-  by eguneys ([@eguneys](//twitter.com/eguneys))
+  by eguneys ([@eguneys](//x.com/eguneys))
 * [Dewdrop Farm](//www.frankmitchell.org/2020/10/ddf-post-mortem)
-  by Frank Mitchell ([@onefrankguy](//twitter.com/onefrankguy))
+  by Frank Mitchell ([@onefrankguy](//x.com/onefrankguy))
 * [FyraNollFyra](//github.com/nkholski/fyranollfyra_js13k/blob/master/post-mortem.md)
-  by Niklas Berg ([@nikbrg](//twitter.com/nikbrg))
+  by Niklas Berg ([@nikbrg](//x.com/nikbrg))
 * [HTTP Runner - Post-mortem](//github.com/lucasaug/http-runner-js13k-2020#post-mortem)
-  by Lucas Augusto ([@\_TRGuy](//twitter.com/_TRGuy))
+  by Lucas Augusto ([@\_TRGuy](//x.com/_TRGuy))
 * [Using Emojis in a Point and Click Adventure](//lanceewing.github.io/blog/js13k/2020/09/27/using-emojis-in-a-point-and-click-adventure-part-1.html)
-  by Lance Ewing ([@lance\_ewing](//twitter.com/lance_ewing))
+  by Lance Ewing ([@lance\_ewing](//x.com/lance_ewing))
 * [Delete!](//github.com/Clocks-in-a-Cooler/daleet_js13k_2020/blob/master/postmortem.md)
   by clocks-in-a-cooler
 * [Black Jack 404 - Post Mortem](//reitn.no/blog/9ac7df1a-a7e2-43fe-94c2-dc0cf84f3574)
-  by johnedvard
+  by John Edvard ([@ReitGames](//x.com/reitgames))
 * [Robot Mission 404 Post Mortem](//vertfromage.github.io./update/2020/09/25/Robot-Mission-404-JS13KGames-2020.html)
   by Verfromage
 * [The making of Track not found?!](//xem.github.io/articles/js13k20.html)
-  by [xem](//twitter.com/maximeeuziere)
+  by [xem](//x.com/maximeeuziere)
 * [The Making of ROAR](//piesku.com/roar)
-  by [Staś Małolepszy](//twitter.com/stas)
+  by [Staś Małolepszy](//x.com/stas)
 * [The Making of ZzFXM](//keithclark.co.uk/articles/zzfxm)
-  by [Keith Clark](//twitter.com/keithclarkcouk) & [Frank Force](//twitter.com/KilledByAPixel)
+  by [Keith Clark](//x.com/keithclarkcouk) & [Frank Force](//x.com/KilledByAPixel)
 * [The Making of FOURFOLD](//saud.gq/blog/fourfold)
   by Saud
 * [Highway 404](//medium.com/@herebefrogs/highway-404-a-js13kgames-2020-post-mortem-89f94dedef03)
-  by Jerome Lecomte ([@herebefrogs](//twitter.com/herebefrogs))
+  by Jerome Lecomte ([@herebefrogs](//x.com/herebefrogs))
 * [Using js\_of\_ocaml to write game in 13k for js13k game jam](//dev.to/serpent7776/using-jsofocaml-to-write-game-in-13k-for-js13k-game-jam-3653)
   by Serpent7776
 * [Exit](//github.com/jaammees/exit)
-  by [James](//twitter.com/uniquename654)
+  by [James](//x.com/uniquename654)
+* [Ninja vs EVILCORP](//remvst.medium.com/ninja-vs-evilcorp-postmortem-ceaa4ca96a83)
+  by Rémi Vansteelandt ([@remvst](//x.com/remvst))
 
 ### 2021
 
 #### Post-mortems
 * [Crater Space](//github.com/picosonic/js13k-2021-mobile/blob/main/devdiary/diary.md)
-  by picosonic (Jasper Renow-Clarke) ([@femtosonic](//twitter.com/femtosonic))
+  by Jasper Renow-Clarke (picosonic, [@femtosonic](//x.com/femtosonic))
 * [Airspace Alpha Zulu](//github.com/picosonic/js13k-2021/blob/main/devdiary/diary.md)
-  by picosonic (Jasper Renow-Clarke) ([@femtosonic](//twitter.com/femtosonic))
+  by Jasper Renow-Clarke (picosonic, [@femtosonic](//x.com/femtosonic))
 * [Shadow of the Keening Star](//github.com/elliot-nelson/js13k-2021-keening-star/blob/main/README.md#post-mortem)
-  by Elliot Nelson ([@7tonshark](//twitter.com/7tonshark))
+  by Elliot Nelson ([@7tonshark](//x.com/7tonshark))
 * [Cat Goric: Escape from the Warp Chamber - Post-Mortem](//dev.to/felladrin/cat-goric-escape-from-the-warp-chamber-post-mortem-57gc)
-  by Victor Nogueira ([@felladrin](//twitter.com/felladrin))
+  by Victor Nogueira ([@felladrin](//x.com/felladrin))
 * [Galaxy Raid](//www.joseprio.com/blog/2021/09/16/js13k-2021-galaxy-raid)
-  by Josep del Rio ([@joseprio](//twitter.com/joseprio))
+  by Josep del Rio ([@joseprio](//x.com/joseprio))
 * [Distant Friends](//blog.slashie.net/2021/09/21/distant-friends-js13k-2021)
-  by [mapedorr](//twitter.com/mapedorr), [QuietGecko](//twitter.com/QuietGecko) and [Slashie](//twitter.com/slashie_).
+  by [mapedorr](//x.com/mapedorr), [QuietGecko](//x.com/QuietGecko) and [Slashie](//x.com/slashie_).
 * [Rocket Jockey: Captain Pick-a-Card's Great Escape](//ryankubik.com/blog/js13k-2021-rocket-jockey)
-  by Ryan Kubik ([@ryrykubes](//twitter.com/ryrykubes)) and Brendan McCracken ([@icynotesdx](//twitter.com/icynotesdx))
+  by Ryan Kubik ([@ryrykubes](//x.com/ryrykubes)) and Brendan McCracken ([@icynotesdx](//x.com/icynotesdx))
 * [Subspace Zero](//github.com/AD-Edge/SubSpace-Zero#post-mortem)
-  by Alex Delderfield ([@Alex\_ADEdge](//twitter.com/Alex_ADEdge))
+  by Alex Delderfield ([@Alex\_ADEdge](//x.com/Alex_ADEdge))
 * [SPACE Saver](//github.com/ripter/js13k/blob/master/2021/Postmortem%20JS13KGame%202021.md)
-  by Chris ([@ripter001](//twitter.com/ripter001))
+  by Chris ([@ripter001](//x.com/ripter001))
 * [Q1K3](//phoboslab.org/log/2021/09/q1k3-making-of)
   by Dominic Szablewski
 * [2021: a Space Opera](//medium.com/@herebefrogs/2021-a-space-opera-a-js13kgames-2021-post-mortem-94cc2e061031)
-  by Jerome Lecomte ([@herebefrogs](//twitter.com/herebefrogs))
+  by Jerome Lecomte ([@herebefrogs](//x.com/herebefrogs))
 * [LOSSST - A Snake in Space](//xem.github.io/articles/js13k21.html)
-  by [xem](//twitter.com/maximeeuziere)
-* [Moon Buggy Racing](//developervoyage.com/2021/11/05/my-first-game-jam-submission-js13kgames-2021.html)
-  by Johan Wigert ([@DeveloperVoyage](//twitter.com/DeveloperVoyage))
+  by [xem](//x.com/maximeeuziere)
+* [Moon Buggy Racing](//developervoyage.github.io/2021-11-05-my-first-game-jam-submission-js13kgames-2021)
+  by Johan Wigert ([@DeveloperVoyage](//x.com/DeveloperVoyage))
 
 ### 2022
 
 #### Post-mortems
 * [13](//eliasku.hashnode.dev/13-game)
-  by Elias Ku ([@eliaskuvoice](//twitter.com/eliaskuvoice))
+  by Elias Ku ([@eliaskuvoice](//x.com/eliaskuvoice))
 * [Bee Kind](//github.com/picosonic/js13k-2022/blob/main/devdiary/diary.md)
-  by picosonic (Jasper Renow-Clarke) ([@femtosonic](//twitter.com/femtosonic))
+  by Jasper Renow-Clarke (picosonic, [@femtosonic](//x.com/femtosonic))
 * [Charon Jr.](//roblouie.com/article/949/the-making-of-charon-jr-js13k-postmortem)
-  by Rob Louie ([@rob_louie](//twitter.com/rob_louie))
+  by Rob Louie ([@rob_louie](//x.com/rob_louie))
 * [The Neatness](//mvasilkov.animuchan.net/the-neatness-js13kgames2022)
-  by Mark Vasilkov ([@mvasilkov](//twitter.com/mvasilkov))
+  by Mark Vasilkov ([@mvasilkov](//x.com/mvasilkov))
 * [Death Estate](//medium.com/@jayther/death-estate-js13k-2022-postmortem-863bfc0af423)
-  by jayther (J'Brian) ([@jayther](//twitter.com/jayther))
+  by J'Brian ([@jayther](//x.com/jayther))
 * [Moth](//7tonshark.com/posts/making-of-js13k-2022-moth)
-  by Elliot Nelson ([@7tonshark](//twitter.com/7tonshark))
+  by Elliot Nelson ([@7tonshark](//x.com/7tonshark))
 * [Soul Jumper](//carelesslabs.wordpress.com/2022/09/25/js13k-2022-game-jam-post-mortem-js13k)
-  by Ryan Tyler ([@CarelessLabs](//twitter.com/CarelessLabs))
+  by Ryan Tyler ([@CarelessLabs](//x.com/CarelessLabs))
 * [Gravepassing](//medium.com/hypersphere-codes/how-i-created-a-gameboy-like-game-in-13kb-5905bf6166b2)
-  by Kacper Kula ([@kulak_at](//twitter.com/kulak_at))
+  by Kacper Kula ([@kulak_at](//x.com/kulak_at))
 * [TenderGotchi](//blog.slashie.net/2022/10/13/tendergotchi-js13k22)
-  by Slashie ([@slashie_](//twitter.com/slashie_))
+  by Slashie ([@slashie_](//x.com/slashie_))
 * [Stand By Me](//medium.com/@herebefrogs/stand-by-me-a-js13kgames-2022-post-mortem-f14edb0d3304)
-  by Jerome Lecomte ([@herebefrogs](//twitter.com/herebefrogs))
+  by Jerome Lecomte ([@herebefrogs](//x.com/herebefrogs))
+* [Dante](//github.com/SalvatorePreviti/js13k-2022/blob/main/post-mortem.md)
+  by Salvatore Previti ([@SN74HC00](//x.com/SN74HC00))
+* [Norman the Necromancer](//danthedev.com/norman-the-necromancer)
+  by Dan Prince ([@danprince](//github.com/danprince))
+* [Hang by a Thread](//reitgames.com/news/hang-by-a-thread-post-mortem) 
+  by John Edvard ([@ReitGames](//x.com/reitgames))
+* [Deathkeeper](//timmykokke.com/blog/2022-09-14-js13kgames-postmortem)
+  by Timmy Kokke ([@Sorskoot](//x.com/sorskoot))
+
+### 2023
+
+#### Post-mortems
+* [Fort Knight](//carelesslabs.wordpress.com/2023/09/21/fort-knight-post-mortem-js13k)
+  by Ryan Tyler ([@CarelessLabs](//x.com/carelesslabs))
+* [The Terror of Mongolia](//dev.to/jacklehamster/the-terror-of-mongolia-js13k-post-mortem-part-1-33a4)
+  by Jack Le Hamster ([@JackLeHamster](//x.com/jacklehamster))
+* [Slicing with Samurai Sam](//reitgames.com/news/samurai-sam-port-mortem)
+  by John Edvard ([@ReitGames](//x.com/reitgames))
+* [Princess of Corinium](//github.com/picosonic/js13k-2023/blob/main/devdiary/diary.md)
+  by Jasper Renow-Clarke (picosonic, [@femtosonic](//x.com/femtosonic))
+* [When Your Neighbors Are Mongols](//github.com/Antix-Development/when_mongols_are_your_neighbors/blob/master/POST-MORTEM.md)
+  by Cliff Earl ([@Antix-Development](//github.com/Antix-Development))
+* [Market Street Tycoon](//dev.to/mrlopis/a-tiny-pixel-art-game-using-no-images-49df)
+  by João Lopes ([@lopis](//github.com/lopis))
+* [Wanted](//isacben.github.io/javascript/2023/09/14/js13kgames-2023)
+  by Isaac Benitez ([@isacben](//github.com/isacben))
+* [Hugo the Wizard](//curtastic.com/hugo/postmortem.html)
+  by Curtis Robinson ([@curtastic](//x.com/curtastic))
+* [UPYRI](//roblouie.com/article/1154/the-making-of-upyri-js13k-2023-post-mortem)
+  by Rob Louie ([@rob_louie](//x.com/rob_louie))
+* [Robin of Thirteensley](//github.com/csubagio/js13k-robin)
+  by Chris Subagio ([@csubagio](//github.com/csubagio))
+* [Cathedral Builder](//github.com/HomerDilpleu/CathedralBuilder/blob/main/postMortem/postMortem.md)
+  by Homer Dilpleu ([@HomerDilpleu](//github.com/HomerDilpleu))
+* [Super Castle Game](//mvasilkov.animuchan.net/super-castle-game-js13kgames2023)
+  by Mark Vasilkov ([@mvasilkov](//x.com/mvasilkov))
+* [Age of the Demigods](//github.com/ArmaanMoh/Age-of-The-Demigods/blob/main/Post-Mortem.md)
+  by Armaan Mohammed ([@ArmaanM_GameDev](//x.com/ArmaanM_GameDev))
+* [Harold is Heavy](//7tonshark.com/posts/making-of-js13k-2023-harold-is-heavy)
+  by Elliot Nelson ([@7tonshark](//x.com/7tonshark))
+* [Trench Fisher](//swashvirus.github.io/trench-fisher/POSTMORTEM)
+  by John Swana ([@swashjunior](//x.com/swashjunior))
+* [Death Sea XIII](//github.com/misabitencourt/death-sea-xiii/blob/master/POST_MORTEM.md)
+  by Misael Braga ([@misabitencourt](//github.com/misabitencourt))
+* [Feast Night](//github.com/wololoa/js13k2023/blob/main/postmortem.md)
+  by Almar Suarez ([@repunkgame](//x.com/repunkgame))
+* [Robin Hood](//github.com/mhmdjawad/robinhoodgame/blob/main/README.md)
+  by Mohammad Jawad ([@mhmdjawad](//github.com/mhmdjawad))
+* [Bewitched!](//eoinmcgrath.com/pages/postmortem-bewitched.html)
+  by Eoin McGrath ([@eoinmcg](//x.com/eoinmcg))
+* [Sir Coadalot and the Holy Grail](//niklever.com/js13kgame-competition-2023-diary)
+  by Nik Lever ([@niklever](//x.com/niklever))
+* [Go Forth and Conquer](//hambley.me.uk/blog/goforthandconquer)
+  by Brian Hambley ([@BrianHambo3](//x.com/BrianHambo3))
+* [Mongol March](//leokuo0724.medium.com/mongol-march-navigating-the-js13k-challenge-658693d53a44)
+  by Leo Kuo ([@leokuo0724](//x.com/leokuo0724))
+* [Jurassic Nursery](//github.com/Platane/jurassic-nursery/blob/master/doc/postmortem/index.md)
+  by platane ([@platane_](//x.com/platane_))
+* [Path to Glory](//remvst.medium.com/path-to-glory-post-mortem-js13k-2023-be74a5272621)
+  by Rémi Vansteelandt ([@remvst](//x.com/remvst))
+* [WitchCup1276](//github.com/DerBenniBanni/js13k2023_witch_racing/blob/main/postmortem/README.md)
+  by Christoph Schansky ([@DerBenniBanni](//x.com/DerBenniBanni))
+* [Thirteen Potions](//blog.cassidoo.co/post/thirteen-potions)
+  by Cassidy Williams ([@cassidoo](//x.com/cassidoo))
+* [The First Horde](//blog.slashie.net/2023/09/13/the-last-horde-js13k-2023)
+  by Slashie ([@slashie_](//x.com/slashie_))
