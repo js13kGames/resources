@@ -16,7 +16,7 @@ jobs:
       - uses: actions/checkout@v3
         with:
           repository: js13kgames/web
-          token: ${{ secrets.PAT }}
+          token: ${{ secrets.BADLUCKY_PAT }}
       - uses: crazy-max/ghaction-import-gpg@v5
         with:
           gpg_private_key: ${{ secrets.BADLUCKY_KEY }}
