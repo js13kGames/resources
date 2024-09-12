@@ -37,7 +37,7 @@
 * [CSS3Dframework](//github.com/xem/CSS3Dframework)
   1.5kb library to render 3D scenes using CSS3D shapes and sprites, and move the camera
 * [WebGLframework](//github.com/xem/WebGLFramework)
-  1.5kb library to easily render 3D scenes using WebGL (WIP)
+  1.5kb library to easily render 3D scenes using WebGL
 * [280 bytes responsive, hackable, mobile friendly game framework](//x.com/MaximeEuziere/status/1257783623316656130)
   With native arrow keys / WASD / ZQSD key inputs detection
 * [Mini2Dphysics](//github.com/xem/mini2Dphysics)
@@ -47,13 +47,17 @@
 * [Hexagonal map](//codepen.io/xem/pen/mdmapRd?editors=1010)
   An example of hexagonal map renderer on 2D canvas
 * [MiniDragAndDrop](//x.com/MaximeEuziere/status/1157563570823081984)
-  A DOM-based, easy-to-use drag&drop library for desktop and mobile browsers (1/2kb zipped)
+  A DOM-based, easy-to-use drag&drop library for desktop and mobile browsers (1/2kB zipped)
 * [MiniIK](//github.com/xem/miniIK)
   A tiny Inverse Kinematics example
 * [responsiveTouchGameFramework](//github.com/xem/responsiveTouchGameFramework)
   Responsive canvas game framework with unified mouse/touch inputs
 * [litecanvas](//github.com/litecanvas/game-engine)
   4kb canvas game engine for small games
+* [W](//xem.github.io/W)
+  A 3kb WebGL framework with tons of features
+* [microW](//xem.github.io/microW)
+  A very simple 1kb Webgl scene renderer with cool features
 
 
 
@@ -160,6 +164,8 @@
   8-color pixel-art image encryptor - gives the same output as Mini Pixel Art, but based on images you provide
 * [Mini Pixelart Editor](//lopis.github.io/mini-pixelart-editor)
   Multi-project 8-color pixel-art editor. Remembers your palette and generates encrypted image strings and rendering code
+* [pxtex](//xem.github.io/pxtex)
+  Tiny random pixelized image generator
 
 
 
@@ -195,6 +201,9 @@
   Powerful and easy to use Vite-based build process that minifies then compresses with RoadRoller and ECT
 * [WebGL TypeScript Starter](//github.com/roblouie/js13k-typescript-starter-webgl)
   Same as above but adds automatic shader minification
+* [PWA starter pack](//github.com/foumart/JS.13kGames)
+  Gulp-powered progressive web app template with Roadroller, browsersync and included service worker
+
 
 
 ## Minification / Compression
@@ -286,6 +295,8 @@
   Convert assets (sound, image, ...) in Base64. You may save hundreds of bytes by embedding them in your index.html
 * [Mini Hex](//xem.github.io/hex)
   A mini Hexadecimal viewer/editor
+* [Bacionejs](//github.com/bacionejs/editor)
+  edit JavaScript code on phone offline
 
 
 
@@ -370,7 +381,7 @@
 
 ### 2015
 
-#### Posts
+#### Articles
 * [7 Great JS13K 2015 Games](//gamejolt.com/p/7-great-js13k-2015-games-feats-of-clever-coding-and-stellar-game-d-icyrzrkp)
   by Paul Hack at Gamejolt Fireside
 * [Jam Favorites: JS13KGames Jam](//gamejolt.com/p/jam-favorites-js13kgames-jam-some-fantastic-javascript-games-with-fax27wgm)
@@ -412,17 +423,13 @@
 
 ### 2016
 
-#### Posts
+#### Articles
 * [Build a game in 13kB or less with js13kGames](//github.com/blog/2409-build-a-game-in-13kb-or-less-with-js13kgames)
   A recap of some entries from previous years and GitHub's invitation to 2017
 * [A-Frame comes to js13kGames: build a game in WebVR](//hacks.mozilla.org/2017/08/a-frame-comes-to-js13kgames)
   Mozilla Hacks introducing new A-Frame category in 2017
 * [Interview with Andrzej Mazur - Game Development Using JavaScript](//blog.jscrambler.com/interview-game-development-using-javascript)
   Jscrambler blog post
-* [What is the js13kGames competition?](//udxs.me/js13kgames)
-  Blog post by Davit Markarian
-* [Lesser-known developer contests you can join in 2018](//freecodecamp.org/news/lesser-known-developer-contests-you-can-join-in-2018-bf70f175106a)
-  by Mike Sedzielewski at FreeCodeCamp
 
 #### Post-mortems
 * [Super Chrono Portal Maker](//xem.github.io/articles/js13k16.html)
@@ -450,7 +457,9 @@
 
 ### 2017
 
-#### Posts
+#### Articles
+* [Lesser-known developer contests you can join in 2018](//freecodecamp.org/news/lesser-known-developer-contests-you-can-join-in-2018-bf70f175106a)
+  by Mike Sedzielewski at FreeCodeCamp
 * [Lessons learned from the A-Frame category in the js13kGames competition](//hacks.mozilla.org/2018/01/lessons-learned-from-the-a-frame-category-in-the-js13kgames-competition)
   Tips and tricks from the WebVR category
 * [Organizing a successful competition that doesn’t scale](//end3r.com/blog/2018/02/organizing-a-successful-competition-that-doesnt-scale)
@@ -494,7 +503,7 @@
 
 ### 2018
 
-#### Posts
+#### Articles
 * [13 Games in ≤ 13kB of JavaScript](//github.blog/2018-10-05-js13kgames-highlights-2018)
   GitHub's highlights by Lee Reilly
 * [These amazing browser games are 13 kilobytes or less in size](//kotaku.com.au/2018/10/all-these-amazing-browser-games-take-up-13-kilobytes-or-less)
@@ -507,8 +516,6 @@
   by eBay Tech
 * [This Real Time Strategy Game Is Just 13 Kilobytes](//vice.com/en/article/43k453/this-real-time-strategy-game-is-just-13-kilobytes)
   by Karl Bode at Vice Games
-* [Highlights from the js13kGames 2019 competition](//github.blog/2019-10-08-js13k-2019-highlights)
-  Top 10 winners showcased by Lee Reilly on GitHub's blog
 
 #### Post-mortems
 * [13Kars](//fq.nz/blog/2018/08/30/my-js13k-games-entry-13kars.html)
@@ -592,6 +599,10 @@
 
 ### 2019
 
+#### Articles
+* [Highlights from the js13kGames 2019 competition](//github.blog/open-source/gaming/js13k-2019-highlights)
+  Top 10 winners showcased by Lee Reilly on GitHub's blog
+
 #### Post-mortems
 * [Making a Progressive WebXR game with 13Kb + three.js](//unboring.net/cases/progressive-webxr-game)
   by Arturo Paracuellos
@@ -647,18 +658,6 @@
   by Michał Budzyński and Staś Małolepszy
 
 ### 2020
-
-#### Posts
-* [Wow, this Quake clone is smaller than a Word doc](//kotaku.com/wow-this-quake-clone-is-smaller-than-a-word-doc-1847668782)
-  by Zack Zwiezen at Kotaku
-* [This Quake clone is just 13 kilobytes and plays right in your browser](//techspot.com/news/91246-quake-clone-13-kilobytes-plays-right-browser.html)
-  by Shawn Knight at TechSpot
-* [Q1K3: a JavaScript homage to Quake in Just 13KB](//quakewiki.net/q1k3-a-javascript-homage-to-quake-in-just-13kb)
-  QuakeWiki
-* [13 tiny and terrific entries from the js13kGames competition](//github.blog/2021-10-05-13-tiny-and-terrific-entries-from-the-js13kgames-competition)
-  by Lee Reilly at GitHub Blog
-* [Hundreds of developers build tiny JavaScript games for JS13K](//thenewstack.io/hundreds-of-developers-build-tiny-javascript-games-for-js13k)
-  by David Cassel at The New Stack
 
 #### Post-mortems
 * [Minipunk - Voxels and Bloom Shaders and boss fights, oh my](//github.com/codyebberson/js13k-minipunk#postmortem)
@@ -730,6 +729,18 @@
 
 ### 2021
 
+#### Articles
+* [Wow, this Quake clone is smaller than a Word doc](//kotaku.com/wow-this-quake-clone-is-smaller-than-a-word-doc-1847668782)
+  by Zack Zwiezen at Kotaku
+* [This Quake clone is just 13 kilobytes and plays right in your browser](//techspot.com/news/91246-quake-clone-13-kilobytes-plays-right-browser.html)
+  by Shawn Knight at TechSpot
+* [Q1K3: a JavaScript homage to Quake in Just 13KB](//quakewiki.net/q1k3-a-javascript-homage-to-quake-in-just-13kb)
+  QuakeWiki
+* [13 tiny and terrific entries from the js13kGames competition](//github.blog/2021-10-05-13-tiny-and-terrific-entries-from-the-js13kgames-competition)
+  by Lee Reilly at GitHub Blog
+* [Hundreds of developers build tiny JavaScript games for JS13K](//thenewstack.io/hundreds-of-developers-build-tiny-javascript-games-for-js13k)
+  by David Cassel at The New Stack
+
 #### Post-mortems
 * [Crater Space](//github.com/picosonic/js13k-2021-mobile/blob/main/devdiary/diary.md)
   by Jasper Renow-Clarke (picosonic, [@femtosonic](//x.com/femtosonic))
@@ -757,6 +768,10 @@
   by [xem](//x.com/maximeeuziere)
 * [Moon Buggy Racing](//developervoyage.github.io/2021-11-05-my-first-game-jam-submission-js13kgames-2021)
   by Johan Wigert ([@DeveloperVoyage](//x.com/DeveloperVoyage))
+* [Space Huggers](//frankforce.com/space-huggers-how-i-made-a-game-in-13-kilobytes)
+  by Frank Force ([@KilledByAPixel](//x.com/KilledByAPixel))
+
+
 
 ### 2022
 
