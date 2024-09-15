@@ -862,3 +862,9 @@
   by Cassidy Williams ([@cassidoo](//x.com/cassidoo))
 * [The First Horde](//blog.slashie.net/2023/09/13/the-last-horde-js13k-2023)
   by Slashie ([@slashie_](//x.com/slashie_))
+
+### 2024
+
+#### Post-mortems
+* [PicoBuddy](https://hereismy.website/pico-buddy)
+  by bbaustin ([@bbaustin](//github.com/bbaustin))
