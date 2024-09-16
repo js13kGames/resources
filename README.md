@@ -870,3 +870,5 @@
   by bbaustin ([@bbaustin](//github.com/bbaustin))
 * [13th Floor](https://roblouie.com/article/1219/the-making-of-the-13th-floor-js13k-2024)
   by Rob Louie ([@roblouie](//github.com/roblouie))
+* [How it started](//github.com/RomanMiniv/js13k-game-2024/blob/master/POST-MORTEM.md)
+  by Roman Miniv ([@RomanMiniv](//github.com/RomanMiniv))
