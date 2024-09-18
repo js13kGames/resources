@@ -872,3 +872,5 @@
   by Rob Louie ([@roblouie](//github.com/roblouie))
 * [How it started](//github.com/RomanMiniv/js13k-game-2024/blob/master/POST-MORTEM.md)
   by Roman Miniv ([@RomanMiniv](//github.com/RomanMiniv))
+* [The Way of the Dodo](//github.com/repsej/TheWayOfTheDodo)
+  by Jesper Rasmussen ([@repsej](//github.com/repsej))
