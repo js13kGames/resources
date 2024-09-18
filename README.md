@@ -874,3 +874,5 @@
   by Roman Miniv ([@RomanMiniv](//github.com/RomanMiniv))
 * [The Way of the Dodo](//github.com/repsej/TheWayOfTheDodo)
   by Jesper Rasmussen ([@repsej](//github.com/repsej))
+* [Gecko Blaster](//eoinmcgrath.com/gecko/post-mortem)
+  by eoinmcg ([@eoinmcg](//github.com/eoinmcg))
