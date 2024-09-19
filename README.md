@@ -880,3 +880,5 @@
   by Homer Dilpleu ([@HomerDilpleu](//github.com/HomerDilpleu))
 * [Roller Maze](//github.com/picosonic/js13k-2024/blob/main/devdiary/diary.md)
   by Jasper Renow-Clarke (picosonic, [@femtosonic](//x.com/femtosonic))
+* [Z0MB13](//serverboi.org/posts/js13k-Post-Mortem/)
+  by Jake Turner ([@JakeTurner616](//github.com/JakeTurner616))
