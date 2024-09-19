@@ -876,5 +876,7 @@
   by Jesper Rasmussen ([@repsej](//github.com/repsej))
 * [Gecko Blaster](//eoinmcgrath.com/gecko/post-mortem)
   by eoinmcg ([@eoinmcg](//github.com/eoinmcg))
+* [Unloved 13](//github.com/HomerDilpleu/Unloved13/blob/main/postMortem/postMortem.md)
+  by Homer Dilpleu ([@HomerDilpleu](//github.com/HomerDilpleu))
 * [Roller Maze](//github.com/picosonic/js13k-2024/blob/main/devdiary/diary.md)
   by Jasper Renow-Clarke (picosonic, [@femtosonic](//x.com/femtosonic))
