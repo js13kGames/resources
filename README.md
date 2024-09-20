@@ -882,3 +882,5 @@
   by Jasper Renow-Clarke (picosonic, [@femtosonic](//x.com/femtosonic))
 * [Z0MB13](//serverboi.org/posts/js13k-Post-Mortem/)
   by Jake Turner ([@JakeTurner616](//github.com/JakeTurner616))
+* [Thirteen Truco](//github.com/michelts/thirteen-truco/blob/main/docs/POSTMORTEM.md)
+  by Michel Sabchuk ([@michelts](//github.com/michelts))
