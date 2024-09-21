@@ -884,3 +884,6 @@
   by Jake Turner ([@JakeTurner616](//github.com/JakeTurner616))
 * [Thirteen Truco](//github.com/michelts/thirteen-truco/blob/main/docs/POSTMORTEM.md)
   by Michel Sabchuk ([@michelts](//github.com/michelts))
+* [Templar's Final Stand](//leokuo0724.medium.com/templars-final-stand-post-mortem-js13k-2024-73c2cc895c67)
+  by Leo Kuo ([@leokuo0724](//x.com/leokuo0724))
+  
