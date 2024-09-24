@@ -162,10 +162,12 @@
   Generate a nice procedural galaxy background with stars
 * [Image Encryptor](//foumartgames.com/extensions/ImageEncryptor)
   8-color pixel-art image encryptor - gives the same output as Mini Pixel Art, but based on images you provide
-* [Mini Pixelart Editor](//lopis.github.io/mini-pixelart-editor)
-  Multi-project 8-color pixel-art editor. Remembers your palette and generates encrypted image strings and rendering code
 * [pxtex](//xem.github.io/pxtex)
   Tiny random pixelized image generator
+* [Mini Pixel Image Editor](//lopis.github.io/mini-pixelart-editor/image-editor)
+  Multi-project pixelart editor with variable palette size. Remembers your palette and compresses sprites into a string.
+* [Mini Pixel Font Editor](//lopis.github.io/mini-pixelart-editor/font-editor)
+  Multi-project pixel font editor. Compresses your font into a string.
 
 
 
