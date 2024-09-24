@@ -602,6 +602,8 @@
 #### Articles
 * [Highlights from the js13kGames 2019 competition](//github.blog/open-source/gaming/js13k-2019-highlights)
   Top 10 winners showcased by Lee Reilly on GitHub's blog
+* [JS13k Meta Postmortem](//dev.to/mrlopis/js13k-meta-postmortem-5f9b)
+  João Lopes reviewing the voting system
 
 #### Post-mortems
 * [Making a Progressive WebXR game with 13Kb + three.js](//unboring.net/cases/progressive-webxr-game)
