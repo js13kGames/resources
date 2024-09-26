@@ -870,7 +870,8 @@
 ### 2024
 
 #### Articles
-*
+* [Gotchas while developing a tiny web game](//dev.to/lopis/gotchas-while-developing-a-tiny-web-game-4528)
+  by João Lopes ([@lopis](//github.com/lopis))
 
 #### Post-mortems
 * [PicoBuddy](https://hereismy.website/pico-buddy)
@@ -895,5 +896,3 @@
   by Leo Kuo ([@leokuo0724](//x.com/leokuo0724))
 * [King Thirteen](//mvasilkov.animuchan.net/king-thirteen)
   by Mark Vasilkov ([@mvasilkov](//x.com/mvasilkov))
-* [Gotchas while developing a tiny web game](//dev.to/lopis/gotchas-while-developing-a-tiny-web-game-4528)
-  by João Lopes ([@lopis](//github.com/lopis))
