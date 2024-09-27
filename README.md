@@ -897,3 +897,5 @@
 * [King Thirteen](//mvasilkov.animuchan.net/king-thirteen)
   by Mark Vasilkov ([@mvasilkov](//x.com/mvasilkov))
 * [The Encroaching Darkness](https://stevenklambert.com/writing/encroaching-darkness-postmortem/) by Steven Lambert ([@straker](//github.com/straker))
+* [Get the Flock Outta Here](https://hambley.me.uk/blog/gettheflockouttahere)
+  by Brian Hambley ([@BrianHambo3](//x.com/BrianHambo3))
