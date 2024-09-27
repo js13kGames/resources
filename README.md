@@ -896,3 +896,4 @@
   by Leo Kuo ([@leokuo0724](//x.com/leokuo0724))
 * [King Thirteen](//mvasilkov.animuchan.net/king-thirteen)
   by Mark Vasilkov ([@mvasilkov](//x.com/mvasilkov))
+* [The Encroaching Darkness](https://stevenklambert.com/writing/encroaching-darkness-postmortem/) by Steven Lambert ([@straker](//github.com/straker))
