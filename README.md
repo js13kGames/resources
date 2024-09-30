@@ -899,3 +899,5 @@
 * [The Encroaching Darkness](https://stevenklambert.com/writing/encroaching-darkness-postmortem/) by Steven Lambert ([@straker](//github.com/straker))
 * [Get the Flock Outta Here](https://hambley.me.uk/blog/gettheflockouttahere)
   by Brian Hambley ([@BrianHambo3](//x.com/BrianHambo3))
+* [13 steps to escape](https://github.com/jonathan-vallet/js13k-2024/blob/main/POST_MORTEM.md)
+  by Jonathan Vallet ([@JoeVallet](//x.com/JoeVallet))
