@@ -901,3 +901,4 @@
   by Brian Hambley ([@BrianHambo3](//x.com/BrianHambo3))
 * [13 steps to escape](https://github.com/jonathan-vallet/js13k-2024/blob/main/POST_MORTEM.md)
   by Jonathan Vallet ([@JoeVallet](//x.com/JoeVallet))
+* [Wands of Triskaidekai](https://github.com/gregwoodsfrontier/wandsTriska/blob/main/README.md) by Richard Chung ([@ricjones](https://github.com/gregwoodsfrontier))
