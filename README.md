@@ -562,7 +562,7 @@
   by Shreyas Minocha
 * [Lasergrid](//timmykokke.com/post/2018-09-18-js13kgames-2018-postmortem)
   by Timmy Kokke
-* [Exo](https://web.archive.org/web/20201102235447/http://jack-oatley.com/index.php?post=blog/2018_09_17_Exo.html)
+* [Exo](//web.archive.org/web/20201102235447/http://jack-oatley.com/index.php?post=blog/2018_09_17_Exo.html)
   by Jack Oatley
 * [Quest of Tod](//samirhodzic.github.io/2018/09/26/quest-of-tod-flow)
   by Samir Hodzic
@@ -874,9 +874,9 @@
   by João Lopes ([@lopis](//github.com/lopis))
 
 #### Post-mortems
-* [PicoBuddy](https://hereismy.website/pico-buddy)
+* [PicoBuddy](//hereismy.website/pico-buddy)
   by bbaustin ([@bbaustin](//github.com/bbaustin))
-* [13th Floor](https://roblouie.com/article/1219/the-making-of-the-13th-floor-js13k-2024)
+* [13th Floor](//roblouie.com/article/1219/the-making-of-the-13th-floor-js13k-2024)
   by Rob Louie ([@roblouie](//github.com/roblouie))
 * [How it started](//github.com/RomanMiniv/js13k-game-2024/blob/master/POST-MORTEM.md)
   by Roman Miniv ([@RomanMiniv](//github.com/RomanMiniv))
@@ -896,9 +896,11 @@
   by Leo Kuo ([@leokuo0724](//x.com/leokuo0724))
 * [King Thirteen](//mvasilkov.animuchan.net/king-thirteen)
   by Mark Vasilkov ([@mvasilkov](//x.com/mvasilkov))
-* [The Encroaching Darkness](https://stevenklambert.com/writing/encroaching-darkness-postmortem/) by Steven Lambert ([@straker](//github.com/straker))
-* [Get the Flock Outta Here](https://hambley.me.uk/blog/gettheflockouttahere)
+* [The Encroaching Darkness](//stevenklambert.com/writing/encroaching-darkness-postmortem/)
+  by Steven Lambert ([@straker](//github.com/straker))
+* [Get the Flock Outta Here](//hambley.me.uk/blog/gettheflockouttahere)
   by Brian Hambley ([@BrianHambo3](//x.com/BrianHambo3))
-* [13 steps to escape](https://github.com/jonathan-vallet/js13k-2024/blob/main/POST_MORTEM.md)
+* [13 steps to escape](//github.com/jonathan-vallet/js13k-2024/blob/main/POST_MORTEM.md)
   by Jonathan Vallet ([@JoeVallet](//x.com/JoeVallet))
-* [Wands of Triskaidekai](https://github.com/gregwoodsfrontier/wandsTriska/blob/main/README.md) by Richard Chung ([@ricjones](https://github.com/gregwoodsfrontier))
+* [Wands of Triskaidekai](//github.com/gregwoodsfrontier/wandsTriska/blob/main/README.md)
+  by Richard Chung ([@ricjones](//github.com/gregwoodsfrontier))
