@@ -904,3 +904,5 @@
   by Jonathan Vallet ([@JoeVallet](//x.com/JoeVallet))
 * [Wands of Triskaidekai](//github.com/gregwoodsfrontier/wandsTriska/blob/main/README.md)
   by Richard Chung ([@ricjones](//github.com/gregwoodsfrontier))
+* [Spirit Hunter](https://dev.to/myjsalterego/spirit-hunter-post-mortem-2np8)
+  by Aleksey Litvinov ([@mightyaleksey](//github.com/mightyaleksey))
