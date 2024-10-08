@@ -710,7 +710,7 @@
   by Lance Ewing ([@lance\_ewing](//x.com/lance_ewing))
 * [Delete!](//github.com/Clocks-in-a-Cooler/daleet_js13k_2020/blob/master/postmortem.md)
   by clocks-in-a-cooler
-* [Black Jack 404 - Post Mortem](//reitn.no/blog/9ac7df1a-a7e2-43fe-94c2-dc0cf84f3574)
+* [Black Jack 404 - Post Mortem](//reitgames.com/news/black-jack-404-post-mortem)
   by John Edvard ([@ReitGames](//x.com/reitgames))
 * [Robot Mission 404 Post Mortem](//vertfromage.github.io./update/2020/09/25/Robot-Mission-404-JS13KGames-2020.html)
   by Verfromage
@@ -906,3 +906,5 @@
   by Richard Chung ([@ricjones](//github.com/gregwoodsfrontier))
 * [Spirit Hunter](https://dev.to/myjsalterego/spirit-hunter-post-mortem-2np8)
   by Aleksey Litvinov ([@mightyaleksey](//github.com/mightyaleksey))
+* [From bottom 10 to top 10 in 6 years - Bubble Burst](//reitgames.com/news/post-mortem-bubble-burst)
+  by John Edvard ([@ReitGames](//x.com/reitgames))
