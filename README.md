@@ -908,3 +908,5 @@
   by Aleksey Litvinov ([@mightyaleksey](//github.com/mightyaleksey))
 * [From bottom 10 to top 10 in 6 years - Bubble Burst](//reitgames.com/news/post-mortem-bubble-burst)
   by John Edvard ([@ReitGames](//x.com/reitgames))
+* [Coup Ahoo](https://anttihaavikko.itch.io/coup-ahoo/devlog/813227/post-mortem)
+  by Antti Haavikko ([@anttihaavikko](//x.com/anttihaavikko))
