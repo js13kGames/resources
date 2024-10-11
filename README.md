@@ -26,6 +26,8 @@
   A 1kb entity component system, designed for js13k
 * [js13k-2d](//github.com/kutuluk/js13k-2d)
   A <2kb 2D WebGL renderer, designed for js13k
+* [ant-ecs](//github.com/federicojacobi/ant-ecs)
+  An object-based ECS implementation meant for learning, on a tiny codebase.
 * [floppy](//github.com/lpagg/floppy)
   A micro game engine for beginners
 * [Jabo Micro Game Engine](//jabo-bernardo.github.io/jabo-micro-game-engine)
@@ -878,6 +880,8 @@
   by bbaustin ([@bbaustin](//github.com/bbaustin))
 * [13th Floor](//roblouie.com/article/1219/the-making-of-the-13th-floor-js13k-2024)
   by Rob Louie ([@roblouie](//github.com/roblouie))
+* [13s](https://federicojacobi.com/2024/10/09/another-js13k-jam-lessons-learned/)
+  by Federico Jacobi ([@federicojacobi](//github.com/federicojacobi))
 * [How it started](//github.com/RomanMiniv/js13k-game-2024/blob/master/POST-MORTEM.md)
   by Roman Miniv ([@RomanMiniv](//github.com/RomanMiniv))
 * [The Way of the Dodo](//github.com/repsej/TheWayOfTheDodo)
