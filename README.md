@@ -301,7 +301,8 @@
   A mini Hexadecimal viewer/editor
 * [Bacionejs](//github.com/bacionejs/editor)
   edit JavaScript code on phone offline
-
+* [Thinky](//bacionejs.github.io/stuff/thinky.html)
+  A tool for analyzing code in the 2024 competition
 
 
 ## Tutorials
