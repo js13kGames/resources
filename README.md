@@ -207,7 +207,8 @@
   Same as above but adds automatic shader minification
 * [PWA starter pack](//github.com/foumart/JS.13kGames)
   Gulp-powered progressive web app template with Roadroller, browsersync and included service worker
-
+* [js13kgames-gulp-webpack-roadroller-template](//github.com/DerBenniBanni/js13kGameTemplate)
+  Another Gulp powered webpack-roadroller boilerplate for js13kgames. Includes a (stupid) little gametemplate with mouse/touch/stylus controls
 
 
 ## Minification / Compression
