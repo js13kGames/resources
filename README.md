@@ -304,6 +304,7 @@
   edit JavaScript code on phone offline
 * [Thinky](//bacionejs.github.io/stuff/thinky.html)
   A tool for analyzing code in the 2024 competition
+* [Pico PubSub](https://github.com/hassanshaikley/pico-pubsub) 150 byte PubSub library.
 
 
 ## Tutorials
