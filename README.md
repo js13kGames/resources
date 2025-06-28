@@ -170,7 +170,8 @@
   Multi-project pixelart editor with variable palette size. Remembers your palette and compresses sprites into a string.
 * [Mini Pixel Font Editor](//lopis.github.io/mini-pixelart-editor/font-editor)
   Multi-project pixel font editor. Compresses your font into a string.
-
+* [Vector Bay](//github.com/bacionejs/vectorbay)
+  A hangar for building vector spaceships
 
 
 ## Boilerplates
