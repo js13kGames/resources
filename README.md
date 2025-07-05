@@ -306,7 +306,8 @@
 * [Thinky](//bacionejs.github.io/stuff/thinky.html)
   A tool for analyzing code in the 2024 competition
 * [Pico PubSub](https://github.com/hassanshaikley/pico-pubsub) 150 byte PubSub library.
-
+* [Games by Author](https://bacionejs.github.io/stuff/games.html)
+  A list of Games by Author 2012-2024
 
 ## Tutorials
 
