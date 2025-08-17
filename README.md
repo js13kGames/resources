@@ -172,6 +172,8 @@
   Multi-project pixel font editor. Compresses your font into a string.
 * [Vector Bay](//github.com/bacionejs/vectorbay)
   A hangar for building vector spaceships
+* [TinySprites](//github.com/m-de-graaff/tinysprite)
+  Ultra-compact text sprite format + web editor and tiny JS runtime. Pack sprites as short strings and decode to Canvas/ImageData at runtime.
 
 
 ## Boilerplates
