@@ -62,7 +62,6 @@
   A very simple 1kb Webgl scene renderer with cool features
 
 
-
 ## Sound and music
 
 * [SoundBox](//sb.bitsnbites.eu)
@@ -101,6 +100,8 @@
   Free Sound effects compressed in .mp3 (there's a folder with all that are <13kb)
 * [midi2array](//xem.github.io/midi2array)
   Parse/extract notes from a MIDI file
+* [Battito](//github.com/bacionejs/battito)
+  A simple Sonant-based music tracker
 
 
 
@@ -305,11 +306,9 @@
   A mini Hexadecimal viewer/editor
 * [Bacionejs](//github.com/bacionejs/editor)
   edit JavaScript code on phone offline
-* [Thinky](//bacionejs.github.io/stuff/thinky.html)
-  Find *who* uses *what*, i.e. repos using sonant, zzfx, aframe, audiocontext, etc.
 * [Pico PubSub](https://github.com/hassanshaikley/pico-pubsub) 150 byte PubSub library.
-* [Games by Author](https://bacionejs.github.io/stuff/games.html)
-  A list of Games by Author 2012-2024
+* [Games Explorer](https://bacionejs.github.io/stuff/games.html)
+  Explore js13kgames github repos
 
 ## Tutorials
 
