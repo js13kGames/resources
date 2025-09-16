@@ -920,3 +920,10 @@
   by John Edvard ([@ReitGames](//x.com/reitgames))
 * [Coup Ahoo](https://anttihaavikko.itch.io/coup-ahoo/devlog/813227/post-mortem)
   by Antti Haavikko ([@anttihaavikko](//x.com/anttihaavikko))
+
+
+### 2025
+
+#### Post-mortems
+* [Meow Mountain](https://dev.to/lopis/meow-mountain-postmortem-of-a-13kb-game-5fb6)
+  by João Lopes ([@lopis](https://github.com/lopis/))
