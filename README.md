@@ -927,3 +927,6 @@
 #### Post-mortems
 * [Meow Mountain](https://dev.to/lopis/meow-mountain-postmortem-of-a-13kb-game-5fb6)
   by João Lopes ([@lopis](https://github.com/lopis/))
+
+* [Byte Armada - multiplayer without a server](https://github.com/bacionejs/byte-armada#-barcode-handshake)  
+  by bacionejs  
