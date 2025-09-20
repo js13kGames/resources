@@ -933,3 +933,6 @@
   by Benjamin Brown
 * [Cat Shooter Ritual Catacombs](https://github.com/dkozhukhar/cat-shooter/blob/main/POSTMORTEM.md)
   by Dmytro Kozhukhar ([@dkozhukhar](https://github.com/dkozhukhar/))
+* [Super Benji](https://hseager.github.io/blog/game-dev/js13k/2025/09/19/super-benji-post-mortem.html)
+  by Harvey Seager ([@hseager](https://github.com/hseager))
+  
