@@ -309,6 +309,7 @@
 * [Pico PubSub](https://github.com/hassanshaikley/pico-pubsub) 150 byte PubSub library.
 * [Games Explorer](https://bacionejs.github.io/stuff/games.html)
   Explore js13kgames github repos
+* [Words](https://xem.github.io/words/) generate french and english dictionaries that suit your needs
 
 ## Tutorials
 
@@ -388,6 +389,13 @@
 
 * [Life of Blobb](//ofcodeandcolor.com/2013/09/18/js13kgames-2013-post-mortem)
   by Alex Gyoshev
+
+### 2014
+
+#### Post-mortems
+
+* [Alchemixer & Quintessence](//xem.github.io/articles/js13k14.html)
+  by [xem](//x.com/maximeeuziere)
 
 ### 2015
 
@@ -816,6 +824,8 @@
   by John Edvard ([@ReitGames](//x.com/reitgames))
 * [Deathkeeper](//timmykokke.com/blog/2022-09-14-js13kgames-postmortem)
   by Timmy Kokke ([@Sorskoot](//x.com/sorskoot))
+* [PUZZLATORY](//xem.github.io/articles/js13k22.html)
+  by xem ([@maximeeuziere](//x.com/maximeeuziere))
 
 ### 2023
 
@@ -874,6 +884,8 @@
   by Cassidy Williams ([@cassidoo](//x.com/cassidoo))
 * [The First Horde](//blog.slashie.net/2023/09/13/the-last-horde-js13k-2023)
   by Slashie ([@slashie_](//x.com/slashie_))
+* [Castle Escape](//xem.github.io/articles/js13k23.html)
+  by xem ([@maximeeuziere](//x.com/maximeeuziere))
 
 ### 2024
 
@@ -920,6 +932,8 @@
   by John Edvard ([@ReitGames](//x.com/reitgames))
 * [Coup Ahoo](https://anttihaavikko.itch.io/coup-ahoo/devlog/813227/post-mortem)
   by Antti Haavikko ([@anttihaavikko](//x.com/anttihaavikko))
+* [Great Plumber 65 & more](//xem.github.io/articles/js13k24.html)
+  by xem ([@maximeeuziere](//x.com/maximeeuziere))
 
 
 ### 2025
@@ -935,4 +949,6 @@
   by Dmytro Kozhukhar ([@dkozhukhar](https://github.com/dkozhukhar/))
 * [Super Benji](https://hseager.github.io/blog/game-dev/js13k/2025/09/19/super-benji-post-mortem.html)
   by Harvey Seager ([@hseager](https://github.com/hseager))
+* [I got up on the wrong foot](//xem.github.io/articles/js13k25.html)
+  by xem ([@maximeeuziere](//x.com/maximeeuziere))
   
