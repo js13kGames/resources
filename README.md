@@ -463,3 +463,9 @@
 
 * [Gotchas while developing a tiny web game](//dev.to/lopis/gotchas-while-developing-a-tiny-web-game-4528)
   by João Lopes ([@lopis](//github.com/lopis))
+
+### 2025
+
+* [How I Built a Serverless Multiplayer Game with WebRTC and Barcodes](//github.com/bacionejs/byte-armada?tab=readme-ov-file#how-i-built-a-serverless-multiplayer-game-with-webrtc-and-barcodes)
+  by bacionejs
+
