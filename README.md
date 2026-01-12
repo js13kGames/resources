@@ -305,9 +305,7 @@
   A mini Hexadecimal viewer/editor
 * [Bacionejs](//github.com/bacionejs/editor)
   edit JavaScript code on phone offline
-* [Pico PubSub](https://github.com/hassanshaikley/pico-pubsub) 150 byte PubSub library.
-* [Games Explorer](https://bacionejs.github.io/stuff/games.html)
-  Explore js13kgames github repos
+* [Pico PubSub](https://github.com/hassanshaikley/pico-pubsub) 150 byte PubSub library.  
 * [Words](https://xem.github.io/words/) generate french and english dictionaries that suit your needs
 
 
