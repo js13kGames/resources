@@ -415,7 +415,7 @@
 
 * [13 Games in ≤ 13kB of JavaScript](//github.blog/2018-10-05-js13kgames-highlights-2018)
   GitHub's highlights by Lee Reilly
-* [These amazing browser games are 13 kilobytes or less in size](//kotaku.com.au/2018/10/all-these-amazing-browser-games-take-up-13-kilobytes-or-less)
+* [These amazing browser games are 13 kilobytes or less in size](//web.archive.org/web/20240725124023/https://www.kotaku.com.au/2018/10/all-these-amazing-browser-games-take-up-13-kilobytes-or-less/)
   by Logan Booker at Kotaku.com.au
 * [Tiny JavaScript games from the JS13kGames competition](//thenewstack.io/tiny-javascript-games-from-the-js13kgames-competition)
   by David Cassel at The New Stack
