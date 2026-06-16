@@ -32,7 +32,7 @@
   A micro game engine for beginners
 * [Jabo Micro Game Engine](//jabo-bernardo.github.io/jabo-micro-game-engine)
   Lightweight and beginner-friendly micro game engine
-* [Craters](//github.com/swashvirus/craters)
+* [Craters](//github.com/john-swana/craters)
   A modular JavaScript framework reimplemented in TypeScript for rapid HTML5 game development
 * [platform-engine](//github.com/xem/platform-engine)
   2D platform engine that handles collisions, slopes, rotations, etc.
