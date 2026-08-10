@@ -60,6 +60,8 @@
   A 3kb WebGL framework with tons of features
 * [microW](//xem.github.io/microW)
   A very simple 1kb Webgl scene renderer with cool features
+* [BroMetal](//brometal.dev/js13k)
+    A 2kb WebGPU framework with shaders compiled ahead of time
 
 
 ## Sound and music
