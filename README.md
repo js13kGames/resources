@@ -297,6 +297,8 @@
   3D map editor with a bunch of 3D shapes / sprites, textures and rotations, with a tiny JSON output
 * [EscApe](http://xem.github.io/escape)
   Unicode string decoder/analyzer
+* [ASCII Images](https://ascii-images.com/unicode-inspector)
+  Free browser inspector for code points, invisible characters and UTF-16 offsets in text up to 1,000 UTF-16 units; no account required.
 * [Mini Fourier](//xem.github.io/miniFourier/index.html)
   Interactive 2D fourier demo (commented source code, 1kb minified)
 * [Mini KeyCode](//github.com/xem/miniKeyCode#readme)
