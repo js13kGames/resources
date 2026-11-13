@@ -347,6 +347,8 @@
   by xem
 * [Build a tiny game for JS13K with Kontra.js](//dev.to/github/build-a-tiny-game-for-js13k-with-kontra-js-8pb)
   by Lee Reilly
+* [HTML game code: one-file canvas game tutorials](//html5gamesstudio.com/html-game-code)
+  25 classic games (Snake, Breakout, falling blocks, match-3, a platformer and more), each a single HTML file with no libraries, with step-by-step walkthroughs. MIT source also on [GitHub](//github.com/bytenimble/free-html5-games)
 
 
 ## Videos and podcasts
